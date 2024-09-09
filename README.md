@@ -1,5 +1,5 @@
-Caesar Cipher Program
-Overview
+Caesar Cipher Program:
+Overview -
 This is a simple Caesar Cipher program written in Python. It allows users to encrypt and decrypt messages using the Caesar Cipher technique. The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
 Features
